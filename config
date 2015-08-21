@@ -1,0 +1,5 @@
+RemoteIP	192.168.0.105
+RemotePort	8080
+SampleFreq	30
+DeviceID	1 2
+CLFmode	no
